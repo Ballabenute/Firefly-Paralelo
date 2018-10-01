@@ -1,0 +1,41 @@
+#ifndef INCL_H
+#define INCL_H
+
+#include "entropy.h"
+#include "firefly.h"
+#include "histogram.h"
+//#include <C:/Users/unifgoliveira/Documents/ic-daniel/headers/HSVimg.h>
+//#include <C:/Users/unifgoliveira/Documents/ic-daniel/headers/Image.h>
+//#include "C:/Users/unifgoliveira/Documents/ic-daniel/headers/Lde.hpp"
+//#include <C:/Users/unifgoliveira/Documents/ic-daniel/headers/node.hpp>
+#include "opencv2/calib3d/calib3d.hpp"
+#include "opencv2/core/core.hpp"
+#include "opencv2/core/core_c.h"
+#include "opencv2/features2d/features2d.hpp"
+#include "opencv2/flann/miniflann.hpp"
+#include "opencv2/highgui/highgui.hpp"
+#include "opencv2/highgui/highgui_c.h"
+#include "opencv2/imgproc/imgproc.hpp"
+#include "opencv2/imgproc/imgproc_c.h"
+#include "opencv2/ml/ml.hpp"
+#include "opencv2/objdetect/objdetect.hpp"
+#include "opencv2/video/video.hpp"
+//#include "opencv2/contrib/contrib.hpp"
+#include "opencv2/core/types_c.h"
+//#include <C:\Users\unifgoliveira\Documents\ic-daniel\headers\hsv-a.h>
+#include "tsallis.h"
+#include <algorithm>
+#include <cstdlib>
+#include <fstream>
+#include <iomanip>
+#include <iostream>
+#include <math.h>
+#include <set>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <unistd.h>
+#include <utility>
+#include <vector>
+
+#endif
